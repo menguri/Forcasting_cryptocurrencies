@@ -1,2 +1,2 @@
 # Forcasting_cryptocurrencies
-암호 화폐들의 값을 예측합니다.
+[2021.12-2022.01 암호화폐 가격 예측 / Kaggle]
